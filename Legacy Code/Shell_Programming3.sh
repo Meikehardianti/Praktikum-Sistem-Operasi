@@ -43,8 +43,7 @@ then
         else
                 if [[ $terbesar_kedua -lt ${array[i]} ]]
                 then    
-let terbesar_kedua=${array[i]} ]]
-then
+let terbesar_kedua=${array[i]}
                         let terbesar_kedua=${array[i]}
                         let index=i
 fi
